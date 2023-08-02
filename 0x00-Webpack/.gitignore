@@ -3,3 +3,4 @@ node_modules
 /dist/*LICENSE*
 package-lock.json
 *LICENSE*
+main.js
