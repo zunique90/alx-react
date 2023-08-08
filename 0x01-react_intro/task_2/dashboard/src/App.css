@@ -27,7 +27,12 @@
   font-size: 1rem;
   padding: 2em;
   height: 45%;
-  gap: 40px;
+}
+
+.App-body .container {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
 }
 
 .App-footer {
