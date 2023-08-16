@@ -1,0 +1,14 @@
+.Notifications {
+  border: 1px dashed var(--holberton-red);
+  padding: 1em;
+  position: relative;
+  margin-top: 10px;
+}
+
+li[data="default"] {
+  color: blue;
+}
+
+li[data="urgent"] {
+  color: var(--holberton-red);
+}
